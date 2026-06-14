@@ -1,1 +1,1 @@
-# STUDY-BUDDY
+# STUDY-AI
